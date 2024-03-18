@@ -1,3 +1,6 @@
+
+![Presentación pativiri](https://github.com/pativiri/pativiri/assets/161089844/cb63ca95-61a9-45f8-9fad-5acf63664979)
+
 - 👋 Hola, soy @pativiri
 - 👀 Me interesa la enseñanza, la administración y la enfermería
 - 🌱 Actualmente me encuentro estudiando el doctorado en Educación Tecnológica
